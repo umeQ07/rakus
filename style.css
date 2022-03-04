@@ -293,7 +293,7 @@ textarea{
 /*MENU
 --------------------------*/
 #menu{
-    background-image: url("images/manu.jpg");
+    background-image: url("manu.jpg");
     min-height: 100vh;
 
 }
@@ -327,7 +327,7 @@ textarea{
 /*CONTACT
 -----------------*/
 #contact{
-    background-image: url("images/contact.jpg");
+    background-image: url("contact.jpg");
  min-height: 100vh;
 }
 /*フォーム*/
