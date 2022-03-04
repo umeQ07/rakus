@@ -78,7 +78,7 @@ font-weight: normal;
     background-position: center top;
 }
 #home{
-    background-image: url("images/HOME.jpg"),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url("HOME.jpg"),linear-gradient(#c9ffbf,#ffafbd);
     
     background-blend-mode: luminosity;
     min-height: 100vh;
@@ -89,7 +89,7 @@ font-weight: normal;
 /*NEWS
 ----------------------*/
 #news{
-    background-image: url("images/news.jpg");
+    background-image: url("news.jpg");
     height: 270px;
     margin-bottom: 40px;
 
